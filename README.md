@@ -2,7 +2,6 @@
 
 <h3>( 💻 | Programo no meu tempo livre, por diversão! )<h3/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=5200&pause=10000&color=C50000&width=600&height=40&lines=Em+uma+jornada+para+ser+um+Dev+Full+Stack!"/>
 <div align="center">
   <a href="https://github.com/Spyei">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Spyei&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
