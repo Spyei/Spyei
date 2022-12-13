@@ -19,3 +19,4 @@
 
 <a href="https://www.youtube.com/channel/UCvraKRNzDL2oKxtMitw3cBw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://discord.com/users/955095844275781693"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
+
