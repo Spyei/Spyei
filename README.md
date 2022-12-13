@@ -1,6 +1,6 @@
 # ( 👋 | Olá Mundo! )
 
-<h3>( 💻 | Programo no meu tempo livre, por diversão! )<h3/>
+<div>| 💻 => Curto fazer aplicações para o discord.<div/>
 
 <div align="center">
   <a href="https://github.com/Spyei">
