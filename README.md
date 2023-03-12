@@ -1,6 +1,6 @@
 # ( 👋 | Olá Mundo! )
 
-<div>| 💻 => Curto fazer aplicações para o discord.<div/>
+<h3>Curto fazer aplicações para o discord.<h3/>
 
 <div align="center">
   <a href="https://github.com/Spyei">
@@ -8,12 +8,22 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spyei&layout=compact&hide=shell,nix&theme=dracula"/>
 </div>
 
+<div>
 <div style="display: inline_block"><br>
+  <h3>Linguagens e Ferramentas: <h3/>
+  <hr/>
+  <img align="center"  height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center"  height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center"  height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg">
-</div> 
+  <img align="center"  height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center"  height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img align="center"  height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+<img align="center"  height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+</div>
 
 ##
 
