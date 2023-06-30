@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/Spyei">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Spyei&show_icons=true&theme=react&include_all_commits=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spyei&layout=compact&hide=shell,nix&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Spyei&show_icons=true&theme=react&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spyei&layout=compact&hide=shell,nix,javascript&theme=react"/>
 <a href="https://discord.com/users/955095844275781693" target="_blank">
 <img heitght="180em" src="https://lanyard.cnrad.dev/api/955095844275781693?bg=202020&borderRadius=10px" alt="Discord Status"/>
 </a>
