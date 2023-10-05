@@ -1,42 +1,21 @@
-# 👋 Olá Mundo!
+# Meu perfil
 
-- <h3>Curto fazer aplicações para o discord, e websites por ai<h3/>
+Oie, me chamo Caio, sou um desenvolvedor **front-end**, sou um entusiasta na programação, e sempre tento aprender algo novo ou realçar meus conhecimentos.
 
-<div align="center">
-  <a href="https://github.com/Spyei">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Spyei&show_icons=true&theme=react&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spyei&layout=compact&hide=shell,nix,javascript&theme=react"/>
-<a href="https://discord.com/users/955095844275781693" target="_blank">
-<img heitght="180em" src="https://lanyard.cnrad.dev/api/955095844275781693?bg=202020&borderRadius=10px" alt="Discord Status"/>
-</a>
-</div>
+Atualmente utilizo em meus projetos **React**, **Typescript** e **Tailwind**.
 
-#
-  
-<div>
-<div style="display: inline_block">
-  <h3>Tecnologias que eu utilizo: <h3/>
+# Recentemente
 
-  <img align="center"  height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
-  <img align="center"  height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
-  <img align="center"  height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
-  <img align="center"  height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
-  <img align="center"  height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
-    <img align="center"  height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg">
-<img align="center"  height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg">
-  <img align="center"  height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg">
-    <img align="center"  height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg">
-    <img align="center" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ruby.svg">
-  <img align="center"  height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
-  <img align="center"  height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
-<img align="center"  height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">
-</div>
+Atualmente estou fazendo um site que se chama [Simo Botlist](https://simo-botlist.vercel.app), junto com meu amigo [Unreal](https://github.com/ayunreal) que o propósito é divulgar seu bot de discord mais facilmente.
 
-#
+# Notas
 
-<a href="https://www.youtube.com/channel/UCvraKRNzDL2oKxtMitw3cBw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://discord.com/users/955095844275781693"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
+- Comecei a programar em **fevereiro de 2023**, mas eu ja tinha conhecimentos antes disso sobre a lógica e outras coisas, isso me facilitou no aprendizado
+- Gosto muito de projetos open-source, e **contribuir** para outros projetos
 
+# Links
 
-
-
+- [Portfólio](https://spyei.online)
+- [Discord](https://discord.com/users/955095844275781693) ou `spyei`
+- [Youtube](https://youtube.com/spyei)
+- [Instagram](https://instagram.com/caiuwu_)
