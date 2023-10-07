@@ -6,7 +6,9 @@ Atualmente utilizo em meus projetos **React**, **Typescript** e **Tailwind**.
 
 # Recentemente
 
-Atualmente estou fazendo um site que se chama [Simo Botlist](https://simo-botlist.vercel.app), junto com meu amigo [Unreal](https://github.com/ayunreal) que o propósito é divulgar seu bot de discord mais facilmente.
+- Atualmente estou fazendo um site que se chama [Simo Botlist](https://simo-botlist.vercel.app), junto com meu amigo [Unreal](https://github.com/ayunreal) que o propósito é divulgar seu bot de discord mais facilmente.
+
+- Também estou atualizando meu [portfólio](https://github.com/spyei/potfolio).
 
 # Notas
 
