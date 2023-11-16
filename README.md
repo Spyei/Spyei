@@ -18,3 +18,5 @@ Comecei minha jornada na programação em **fevereiro de 2023**. Embora já poss
 - Discord: `spyei` (https://discord.com/users/955095844275781693)
 - [Meu Canal no Youtube](https://youtube.com/spyei)
 - [Meu Perfil no Instagram](https://instagram.com/caiuwu_)
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=spyei&style=flat-square&color=blue" alt=""></p
