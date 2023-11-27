@@ -19,4 +19,5 @@ Comecei minha jornada na programação em **fevereiro de 2023**. Embora já poss
 - [Meu Canal no Youtube](https://youtube.com/spyei)
 - [Meu Perfil no Instagram](https://instagram.com/caiuwu_)
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=spyei&style=flat-square&color=blue" alt=""></p
+![views](https://komarev.com/ghpvc/?username=spyei&style=flat-square&color=blue)
+[![wakatime](https://wakatime.com/badge/user/67b9136d-a2a8-4010-8e98-519d601f511c.svg)](https://wakatime.com/@67b9136d-a2a8-4010-8e98-519d601f511c)
