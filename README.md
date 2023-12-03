@@ -15,7 +15,7 @@ Comecei minha jornada na programação em **fevereiro de 2023**. Embora já poss
 # Links
 
 - [Meu Portfólio](https://spyei.online)
-- Discord: `spyei` (https://discord.com/users/955095844275781693)
+- [Discord](https://discord.com/users/955095844275781693) `spyei`
 - [Meu Canal no Youtube](https://youtube.com/spyei)
 - [Meu Perfil no Instagram](https://instagram.com/caiuwu_)
 
