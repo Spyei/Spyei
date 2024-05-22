@@ -1,6 +1,6 @@
 # Meu perfil
 
-Olá, meu nome é Caio, tenho 16 anos, e sou um desenvolvedor **front-end** apaixonado por programação. Estou constantemente em busca de aprendizado e aprimoramento dos meus conhecimentos. Atualmente, estou focado em tecnologias como **React**, **Typescript** e **Tailwind** para os meus projetos.
+Olá, meu nome é Caio, tenho 17 anos, e sou um desenvolvedor **front-end** apaixonado por programação. Estou constantemente em busca de aprendizado e aprimoramento dos meus conhecimentos. Atualmente, estou focado em tecnologias como **React**, **Typescript** e **Tailwind** para os meus projetos.
 
 # Atividades Recentes
 
