@@ -1,12 +1,12 @@
 # Meu perfil
 
-Olá, meu nome é Caio, tenho 17 anos, e sou um desenvolvedor **front-end** apaixonado por programação. Estou constantemente em busca de aprendizado e aprimoramento dos meus conhecimentos. Atualmente, estou focado em tecnologias como **React**, **Typescript** e **Tailwind** para os meus projetos.
+Olá, meu nome é Caio, tenho 17 anos, e sou um desenvolvedor **front-end** apaixonado por programação. Estou constantemente em busca de aprendizado e aprimoramento dos meus conhecimentos. Atualmente, estou focado em tecnologias como **React**, **NextJs**, **Typescript** ou **Javascript** e **TailwindCss** para os meus projetos.
 
 # Atividades Recentes
 
-- Desenvolvendo o site [Simo Botlist](https://simo-botlist.vercel.app) em colaboração com meu amigo [Unreal](https://github.com/ayunreal). Este projeto tem como objetivo facilitar a divulgação de bots para o Discord.
+- Desenvolvendo a dashboard de um bot chamado de connections, repositório público em breve.
 
-- Atualizando meu [portfólio](https://github.com/spyei/potfolio) para refletir meu progresso e projetos mais recentes.
+- Trabalhando em uma versão melhorada do meu [portfolio](https://github.com/Spyei/new-portfolio) utilizando **NextJs**, **TailwindCss**, **Typescript**, **Framer Motion** e **Aceternity UI**.
 
 # Minhas Notas
 
@@ -14,8 +14,8 @@ Comecei minha jornada na programação em **fevereiro de 2023**. Embora já poss
 
 # Links
 
-- [Meu Portfólio](https://spyei.online)
-- [Discord](https://discord.com/users/955095844275781693) `spyei`
+- [Meu Portfólio](https://caiospyei.vercel.app)
+- [Discord](https://discord.com/users/955095844275781693) `@spyei`
 - [Meu Canal no Youtube](https://youtube.com/spyei)
 - [Meu Perfil no Instagram](https://instagram.com/caiuwu_)
 
