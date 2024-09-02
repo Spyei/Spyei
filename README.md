@@ -1,16 +1,26 @@
 # Meu perfil
 
-Olá, meu nome é Caio, tenho 17 anos, e sou um desenvolvedor **front-end** apaixonado por programação. Estou constantemente em busca de aprendizado e aprimoramento dos meus conhecimentos. Atualmente, estou focado em tecnologias como **React**, **NextJs**, **Typescript** ou **Javascript** e **TailwindCss** para os meus projetos.
+Olá! Eu sou o Caio, um **desenvolvedor front-end** de 17 anos com paixão por programação e um forte desejo de continuar aprendendo. Cada desafio é uma oportunidade de crescimento para mim, e estou sempre buscando melhorar minhas habilidades técnicas e interpessoais. Acredito que a colaboração é essencial para o sucesso. Adoro contribuir para projetos open-source.
 
 # Atividades Recentes
 
-- Desenvolvendo a dashboard de um bot chamado de connections, repositório público em breve.
+- Desenvolvendo uma [dashboard de um bot de discord de conexões](https://connections.squareweb.app/), utilizando **Typescript**, **Nextjs**, **hyper-express**, **TailwindCSS** e **MongoDB** como banco de dados.
 
-- Trabalhando em uma versão melhorada do meu [portfolio](https://github.com/Spyei/new-portfolio) utilizando **NextJs**, **TailwindCss**, **Typescript**, **Framer Motion** e **Aceternity UI**.
+# Tecnologias
+Tecnologias que eu utilizo para fazer meus projetos.
+
+**Front-end:**
+NextJS, ReactJS, TailwindCSS, Framer, Vite, HTML, CSS, Redux, Typescript, Javascript
+
+**Back-end:**
+NodeJS, ExpressJS, Typescript, Javascript, Mongoose
+
+**Ferramentas:**
+Figma, Git, Visual Studio Code
 
 # Minhas Notas
 
-Comecei minha jornada na programação em **fevereiro de 2023**. Embora já possuísse conhecimentos prévios em lógica e outros conceitos, isso me ajudou a acelerar meu aprendizado. Tenho um forte interesse em projetos de código aberto e estou sempre disposto a **contribuir** para outros projetos.
+Comecei minha jornada na programação em **fevereiro de 2023**. Embora já possuísse conhecimentos prévios em lógica e outros conceitos, isso me ajudou a acelerar meu aprendizado. Tenho um forte interesse em projetos de código aberto e estou (quase sempre) disposto a **contribuir** para outros projetos.
 
 - [Discord](https://discord.com/users/955095844275781693) `@spyei`
 
