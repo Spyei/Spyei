@@ -4,7 +4,8 @@ Olá! Eu sou o Caio, um **desenvolvedor front-end** de 17 anos com paixão por p
 
 # Atividades Recentes
 
-- Desenvolvendo uma [dashboard de um bot de discord de conexões](https://connections.squareweb.app/), utilizando **Typescript**, **Nextjs**, **hyper-express**, **TailwindCSS** e **MongoDB** como banco de dados.
+- Me preparando para entrar no mercado de trabalho.
+- Fazendo Freelances.
 
 # Tecnologias
 Tecnologias que eu utilizo para fazer meus projetos.
