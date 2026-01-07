@@ -1,6 +1,6 @@
 # Meu perfil
 
-Olá! Eu sou o Caio, um **desenvolvedor front-end** de 17 anos com paixão por programação e um forte desejo de continuar aprendendo. Cada desafio é uma oportunidade de crescimento para mim, e estou sempre buscando melhorar minhas habilidades técnicas e interpessoais. Acredito que a colaboração é essencial para o sucesso. Adoro contribuir para projetos open-source.
+Olá! Eu sou o Caio, um **desenvolvedor Full-Stack** de 18 anos com paixão por programação e um forte desejo de continuar aprendendo. Cada desafio é uma oportunidade de crescimento para mim, e estou sempre buscando melhorar minhas habilidades técnicas e interpessoais. Acredito que a colaboração é essencial para o sucesso. Adoro contribuir para projetos open-source.
 
 # Atividades Recentes
 
