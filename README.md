@@ -11,13 +11,13 @@ Olá! Eu sou o Caio, um **desenvolvedor Full-Stack** de 18 anos com paixão por 
 Tecnologias que eu utilizo para fazer meus projetos.
 
 **Front-end:**
-NextJS, ReactJS, TailwindCSS, Framer, Vite, HTML, CSS, Redux, Typescript, Javascript
+NextJS, ReactJS, TailwindCSS, Framer, Vite, HTML, CSS, Redux, Typescript, Javascript, Bootstrap
 
 **Back-end:**
-NodeJS, ExpressJS, Typescript, Javascript, Mongoose
+NodeJS, ExpressJS, Typescript, Javascript, MongoDB, Python, Django, MySQL
 
 **Ferramentas:**
-Figma, Git, Visual Studio Code
+Figma, Git, Visual Studio Code, Notion
 
 # Minhas Notas
 
