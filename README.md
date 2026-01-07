@@ -6,6 +6,7 @@ Olá! Eu sou o Caio, um **desenvolvedor Full-Stack** de 18 anos com paixão por 
 
 - Me preparando para entrar no mercado de trabalho.
 - Fazendo Freelances.
+- Conquistando certificado CS50's Web Programming with Javascript and Python de Harvard
 
 # Tecnologias
 Tecnologias que eu utilizo para fazer meus projetos.
