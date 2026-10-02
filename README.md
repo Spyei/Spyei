@@ -20,7 +20,7 @@ Criei e mantenho do banco de dados ao deploy.
 
 ## Contato
 
-[LinkedIn](https://linkedin.com/in/caiospyei) · caiohendev@gmail.com · [Discord](https://discord.com/users/955095844275781693) `@spyei`
+[LinkedIn](https://linkedin.com/in/spyei) · caiohendev@gmail.com · [Discord](https://discord.com/users/955095844275781693) `@spyei`
 
 ![views](https://komarev.com/ghpvc/?username=spyei&style=flat-square&color=blue)
 [![wakatime](https://wakatime.com/badge/user/67b9136d-a2a8-4010-8e98-519d601f511c.svg)](https://wakatime.com/@67b9136d-a2a8-4010-8e98-519d601f511c)
