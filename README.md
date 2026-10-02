@@ -1,30 +1,26 @@
 # Meu perfil
 
-Olá! Eu sou o Caio, um **desenvolvedor Full-Stack** de 18 anos com paixão por programação e um forte desejo de continuar aprendendo. Cada desafio é uma oportunidade de crescimento para mim, e estou sempre buscando melhorar minhas habilidades técnicas e interpessoais. Acredito que a colaboração é essencial para o sucesso. Adoro contribuir para projetos open-source.
+Desenvolvedor Full Stack (TypeScript, Next.js, Node.js, PostgreSQL).
+Programo desde os 14, quando comecei fazendo mods de Minecraft, e trabalho com web desde 2023.
+Procuro minha primeira vaga em um time de desenvolvimento.
 
-# Atividades Recentes
+## Projeto em destaque
 
-- Me preparando para entrar no mercado de trabalho.
-- Fazendo Freelances.
-- Conquistando certificado CS50's Web Programming with Javascript and Python de Harvard
+**[Leeseo](https://leeseobot.app)** - plataforma de colecionismo digital com
+1.000+ usuários cadastrados: bot de Discord, API, site em Next.js,
+marketplace entre jogadores e loja com pagamentos reais.
+Criei e mantenho do banco de dados ao deploy.
 
-# Tecnologias
-Tecnologias que eu utilizo para fazer meus projetos.
+## Tecnologias
 
-**Front-end:**
-NextJS, ReactJS, TailwindCSS, Framer, Vite, HTML, CSS, Redux, Typescript, Javascript, Bootstrap
+**Front-end:** Next.js, React, TypeScript, Tailwind CSS, Framer Motion
+**Back-end:** Node.js, PostgreSQL, Prisma, APIs REST, WebSocket
+**Infra:** VPS Linux, PM2, Docker, Cloudflare R2, GitHub Actions
+**Estudando:** Rust
 
-**Back-end:**
-NodeJS, ExpressJS, Typescript, Javascript, MongoDB, Python, Django, MySQL
+## Contato
 
-**Ferramentas:**
-Figma, Git, Visual Studio Code, Notion
-
-# Minhas Notas
-
-Comecei minha jornada na programação em **fevereiro de 2023**. Embora já possuísse conhecimentos prévios em lógica e outros conceitos, isso me ajudou a acelerar meu aprendizado. Tenho um forte interesse em projetos de código aberto e estou (quase sempre) disposto a **contribuir** para outros projetos.
-
-- [Discord](https://discord.com/users/955095844275781693) `@spyei`
+[LinkedIn](https://linkedin.com/in/caiospyei) · caiohendev@gmail.com · [Discord](https://discord.com/users/955095844275781693) `@spyei`
 
 ![views](https://komarev.com/ghpvc/?username=spyei&style=flat-square&color=blue)
 [![wakatime](https://wakatime.com/badge/user/67b9136d-a2a8-4010-8e98-519d601f511c.svg)](https://wakatime.com/@67b9136d-a2a8-4010-8e98-519d601f511c)
